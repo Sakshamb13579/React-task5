@@ -1,0 +1,18 @@
+/* Add this CSS to your stylesheets or inline style in your component */
+header {
+
+  color: black;
+  padding: 20px 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+.App {
+  background-color: white;
+  width: 450px;
+  height: 250px;
+}

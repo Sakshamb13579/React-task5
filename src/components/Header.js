@@ -1,3 +1,4 @@
+import '../Styles/Header.css';
 const Header = () => {
   return (
     <header>
