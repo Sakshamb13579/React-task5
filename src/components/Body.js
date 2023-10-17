@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect } from 'react';
-import "./Body.css";
+import "../Styles/Body.css";
 const Body = ({date,setDate,age,setAge}) => {
 
     const calAge = () => {
